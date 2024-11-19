@@ -11,7 +11,13 @@
    - Saturation(0.25)
    - Brightness(0.15)
    - Noise(0.2)
+  * Total images
+    - Train: 1092
+    - Valid: 104
+    - Test: 51
  
 # Object Detection and Semantic Segmentation
 * Object Detection Model: YOLOv11n
 * Semantic Segmentation Model: YOLOv11n-seg
+
+# ROS2 Node Development

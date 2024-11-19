@@ -13,3 +13,5 @@
    - Noise(0.2)
  
 # Object Detection and Semantic Segmentation
+* Object Detection Model: YOLOv11n
+* Semantic Segmentation Model: YOLOv11n-seg

@@ -21,3 +21,19 @@
 * Semantic Segmentation Model: YOLOv11n-seg
 
 # ROS2 Node Development
+mkdir -p ~/ros2_ws/src
+cd ~/ros2_ws/src
+
+ros2 pkg create --build-type ament_python pallet_detection
+cd pallet_detection
+
+mkdir -p pallet_detection/models pallet_detection/scripts
+touch pallet_detection/pallet_detector_node.py
+mkdir launch
+touch launch/pallet_detection.launch.py
+
+cd ~/ros2_ws
+colcon build --symlink-install
+source install/setup.bash
+
+ros2 launch pallet_detection pallet_detection.launch.py

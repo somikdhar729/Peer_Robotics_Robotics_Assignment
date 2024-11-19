@@ -6,4 +6,4 @@
   Reference Link: https://github.com/roboflow/notebooks/blob/main/notebooks/automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam.ipynb
 * Final check done manually using Roboflow
 * Data Augmentation and preprocessing
-*   a
+   - a

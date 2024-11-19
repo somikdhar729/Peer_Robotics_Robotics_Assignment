@@ -7,12 +7,12 @@
 ## Approach 
 
 Some approaches for path planning
-* <b>Potential Fields Method</b>
-* <b>Velocity Obstacles</b>
+* Potential Fields Method
+* Velocity Obstacles
 * Dynamic Window Approach
 * Reciprocal Velocity Obstacles
 * Multi-agent RL
-* 
+  
 Given real-time path planning and collision avoidance, a <b>Reciprocal Velocity Obstacles (RVO)</b> approach is most suitable.
 
 ### Reasons

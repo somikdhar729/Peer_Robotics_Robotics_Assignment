@@ -13,7 +13,7 @@ Some approaches for path planning
 * Reciprocal Velocity Obstacles
 * Multi-agent RL
 * 
-Given real-time path planning and collision avoidance, a <b>Reciprocal Velocity Obstacles (RVO)</b>.
+Given real-time path planning and collision avoidance, a <b>Reciprocal Velocity Obstacles (RVO)</b> approach is most suitable.
 
 ### Reasons
 * Decentralized nature: Each robot plans its path independently but communicates with nearby robots to share position and velocity information.

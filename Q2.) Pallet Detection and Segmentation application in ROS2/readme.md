@@ -4,7 +4,9 @@ Key Libraries to install:
 - Ultralytics
 - Pytorch 2.5 + cu12.1
 
-  
+## ROS file download: https://drive.google.com/file/d/1UooUejAPkC4xvov_FgVrQLgiOd3T4tUi/view?usp=sharing
+ROS2 distro: HUMBLE
+
 # Dataset annotation and augmentation
 * Initial annotation done using grounding DINO + SAM
   Reference Link: https://github.com/roboflow/notebooks/blob/main/notebooks/automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam.ipynb
